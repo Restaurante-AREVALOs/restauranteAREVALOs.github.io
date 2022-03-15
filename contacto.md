@@ -1,4 +1,4 @@
-# CONTACTO 
+# CONTACTO Y SUGERENCIAS
 
 SEAN AREVALO BRAULIO 
-CORREO: arevalobraulio.sean04@gamil.com 
+CORREO: arevalobraulio.sean04@gmAil.com 
