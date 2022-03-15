@@ -2,9 +2,11 @@
 
 ### MENU 
 
-- [POSTRES](./postres.md)
+- [POSTRES](./postres.md) 
 - [BEBIDAS](./bebidas.md)
 - [SOPAS](./sopas.md) 
+- ![SOPA](https://user-images.githubusercontent.com/99769829/158484907-57fb0f5a-43b8-4f5d-8d09-98c62ad190c9.jpg)
+
 - [GUISADOS](./guisados.md) 
 
 ### [CONTACTO](./contacto.md)
