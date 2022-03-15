@@ -2,10 +2,10 @@
 
 ### MENU 
 
-- POSTRES
-- BEBIDAS 
-- SOPAS 
-- GUISADOS 
+- [POSTRES](./postres.md)
+- [BEBIDAS](./bebidas.md)
+- [SOPAS](./sopas.md) 
+- [GUISADOS](./guisados.md) 
 
 ### [CONTACTO](./contacto.md)
 
