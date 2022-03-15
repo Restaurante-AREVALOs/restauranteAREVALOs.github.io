@@ -7,7 +7,7 @@
 - SOPAS 
 - GUISADOS 
 
-### [CONTACTO](./CONTACTO.md)
+### [CONTACTO](./contacto.md)
 
 
 ### Markdown
