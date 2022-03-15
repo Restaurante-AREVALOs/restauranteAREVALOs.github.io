@@ -9,3 +9,12 @@ CORREO: arevalobraulio.sean04@gmAil.com
 
 
 https://wa.link/oi4u00 
+
+<form>
+  <label for="name">nombres:</label><br>
+  <input type="text" id="fn name" name="name" value="tus nombres"><br>
+  <label for="lname">apellidos:</label><br>
+  <input type="text" id="lname" name="lname" value="tus apellidos"><br>
+  </form> 
+  
+
