@@ -18,6 +18,7 @@
   <label for="name">direccion:</label><br>
   <input type="text" id="fn direccion" direccion="direccion" value="tu direccion"><br> 
   <label for="name">telefono:</label><br>
+  <input type="text" id="fn telefono" telefono="telefono" value="tu telefono"><br>
   <form>
     
  ## NOSOTROS TE LLAMAMOS
