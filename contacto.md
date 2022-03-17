@@ -15,6 +15,11 @@
   <input type="text" id="fn name" name="name" value="tus nombres"><br>
   <label for="lname">apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="tus apellidos"><br>
-  </form> 
+  <label for="name">direccion:</label><br>
+  <input type="text" id="fn direccion" direccion="direccion" value="tu direccion"><br> 
+  <label for="name">telefono:</label><br>
+  <form>
+    
+ ## NOSOTROS TE LLAMAMOS
   
 
