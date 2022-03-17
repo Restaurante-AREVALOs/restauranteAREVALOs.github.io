@@ -10,7 +10,7 @@
 
 
 
-<form>
+<form action="/action_page.php">
   <label for="name">nombres:</label><br>
   <input type="text" id="fn name" name="name" value="tus nombres"><br>
   <label for="lname">apellidos:</label><br>
@@ -19,7 +19,8 @@
   <input type="text" id="fn direccion" direccion="direccion" value="tu direccion"><br> 
   <label for="name">telefono:</label><br>
   <input type="text" id="fn telefono" telefono="telefono" value="tu telefono"><br>
-  <form>
+  <input type="submit" value="Enviar">
+</form> 
     
 
     
