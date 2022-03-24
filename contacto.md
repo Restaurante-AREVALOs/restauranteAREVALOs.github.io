@@ -2,7 +2,7 @@
 
 - SEAN AREVALO BRAULIO 
 
-- CORREO: arevalobraulio.sean04@gmAil.com 
+- CORREO: arevalobraulio.sean04@gmail.com  
 
 ## WHATSAPP 
 
