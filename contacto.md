@@ -10,7 +10,7 @@
 
 
 
-<form action="https://formspree.io/f/mdobdqub">
+<form action="https://formspree.io/f/mdobdqub" method="POST">
   <label for="name">nombres:</label><br>
   <input type="text" id="fn name" name="name" value="tus nombres"><br>
   <label for="lname">apellidos:</label><br>
